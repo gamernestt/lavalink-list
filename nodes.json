@@ -153,13 +153,13 @@
         "authorId": "1041976160961183764"
     },
     {
-        "identifier": "4Kep",
-        "host": "zetzy.xyz",
-        "port": 2333,
-        "password": "4KepBot",
+        "identifier": "VISIHOST",
+        "host": "In1.sanode.xyz",
+        "port": 19135,
+        "password": "youshallnotpass",
         "secure": false,
         "restVersion": "v4",
-        "authorId": "938443713527545966"
+        "authorId": "1153610613621268491"
     }
 ]
 
